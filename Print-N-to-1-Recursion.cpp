@@ -16,7 +16,7 @@ void recurse(int n){
 int main(){
 
     int n;
-    cout << "Enter no. of times to print number: ";
+    cout << "Enter the number to be printed in N to 1 in recursive fashion: ";
     cin >> n;
 
     recurse(n);
